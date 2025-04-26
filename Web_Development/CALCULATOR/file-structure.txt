@@ -1,7 +1,0 @@
-CalculatorProject/
-│
-├── index.html               # Main HTML file for the calculator
-├── styles.css               # CSS file for styling the calculator
-├── script.js                # JavaScript file for calculator functionality
-├── docs/                    # Documentation directory
-│   └── README.md            # Project documentation
