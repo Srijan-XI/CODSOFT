@@ -15,7 +15,7 @@ Through this project, you will:
 - 🎯 Focus on alignments, padding, color palettes, and box models.
 - 💡 Enhance creativity by designing visually appealing layouts.
 
-> ⚡ **Key Focus:** Maintain clean CSS practices to avoid overlapping elements and ensure a seamless, user-friendly interface.
+> ⚡ **Key Focus:** *Maintain clean CSS practices to avoid overlapping elements and ensure a seamless, user-friendly interface*.
 
 ---
 
@@ -32,7 +32,7 @@ Structure your page as follows:
 - **Contact Section:** 📞 Display your email address, phone number, or preferred contact methods.
 - **Footer:** 🔗 Include copyright information and additional links.
 
-> ⚡ **Key Focus:** Present a professional, well-structured portfolio to leave a strong impression.
+> ⚡ **Key Focus:** *Present a professional, well-structured portfolio to leave a strong impression*.
 
 ---
 
@@ -46,7 +46,7 @@ Essential features include:
 - 🧩 Button layout organized using the **CSS Grid** system.
 - 🔧 JavaScript functionality using event listeners, if-else conditions, and loops to handle operations.
 
-> ⚡ **Key Focus:** Strengthen your logical thinking and enhance your ability to build dynamic, responsive user interfaces.
+> ⚡ **Key Focus:** *Strengthen your logical thinking and enhance your ability to build dynamic, responsive user interfaces*.
 
 ---
 > Made with ❤️ using **HTML**, **CSS**, and **JavaScript**.
