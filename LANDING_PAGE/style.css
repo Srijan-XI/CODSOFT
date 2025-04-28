@@ -1,3 +1,6 @@
+/* Task 01 – Landing Page
+Srijan Kumar
+Internship Project: Codsoft Web Development Internship */
 * {
     margin: 0;
     padding: 0;
@@ -11,6 +14,7 @@
     line-height: 1.6;
   }
   
+
   header {
     background: rgba(8, 8, 88, 0.85);
     text-align: center;
