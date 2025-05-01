@@ -18,8 +18,21 @@ Through this project, you will:
 > ⚡ **Key Focus:** *Maintain clean CSS practices to avoid overlapping elements and ensure a seamless, user-friendly interface*.
 
 ---
+## 🧮 Task 2: Calculator
 
-## 🖼️ Task 2: Portfolio Page
+Create a basic calculator application using **HTML**, **CSS**, and **JavaScript**.  
+Essential features include:
+
+- 🔢 Interactive interface with buttons for addition, subtraction, multiplication, and division.
+- 📟 Display screen to show user inputs and results.
+- 🧩 Button layout organized using the **CSS Grid** system.
+- 🔧 JavaScript functionality using event listeners, if-else conditions, and loops to handle operations.
+
+> ⚡ **Key Focus:** *Strengthen your logical thinking and enhance your ability to build dynamic, responsive user interfaces*.
+
+---
+
+## 🖼️ Task 3: Portfolio Page
 
 Building a personal portfolio website is a vital project for beginners, showcasing both technical skills and creativity.  
 Structure your page as follows:
@@ -33,20 +46,6 @@ Structure your page as follows:
 - **Footer:** 🔗 Include copyright information and additional links.
 
 > ⚡ **Key Focus:** *Present a professional, well-structured portfolio to leave a strong impression*.
-
----
-
-## 🧮 Task 3: Calculator
-
-Create a basic calculator application using **HTML**, **CSS**, and **JavaScript**.  
-Essential features include:
-
-- 🔢 Interactive interface with buttons for addition, subtraction, multiplication, and division.
-- 📟 Display screen to show user inputs and results.
-- 🧩 Button layout organized using the **CSS Grid** system.
-- 🔧 JavaScript functionality using event listeners, if-else conditions, and loops to handle operations.
-
-> ⚡ **Key Focus:** *Strengthen your logical thinking and enhance your ability to build dynamic, responsive user interfaces*.
 
 ---
 > Made with ❤️ using **HTML**, **CSS**, and **JavaScript**.
