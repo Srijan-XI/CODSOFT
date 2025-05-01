@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Srijan Kumar | Portfolio</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script defer src="script.js"></script>
+</head>
+<body>
+
+  <header>
+    <h1>Srijan Kumar</h1>
+    <p id="subtitle">Engineer | Technologist | Visionary</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#projects">Projects</a>
+      <a href="#resume">Resume</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="switch-container">
+      <input class="toggle-checkbox" id="toggle-switch" type="checkbox" />
+      <label class="switch" for="toggle-switch">
+        <div class="toggle">
+          <div class="led"></div>
+        </div>
+      </label>
+      <span>Switch</span>
+    </div>
+  </header>
+
+  <section id="about">
+    <img src="images/your-image.jpg" alt="Srijan's Photo" />
+    <div>
+      <h2>About Me</h2>
+      <p>I am a passionate engineer and content creator. I specialize in cybersecurity, artificial intelligence, and software development, and strive to bring impactful technology to life.</p>
+    </div>
+    <ul>
+      <li><strong>🔭 Currently working on:</strong> Project C++ and Data Structures and Algorithms</li>
+      <li><strong>🌱 Learning:</strong> C++, Cybersecurity & Web Development</li>
+      <li><strong>👯 Looking to collaborate on:</strong> AI and Machine Learning</li>
+      <li><strong>🤝 Seeking support with:</strong> R and Go</li>
+      <li><strong>👨‍💻 Projects:</strong> <a href="https://github.com/Srijan-Kumar" target="_blank">GitHub Profile</a></li>
+      <li><strong>📝 Articles:</strong> <a href="https://dev.to/srijan-xi" target="_blank">Dev.to</a></li>
+      <li><strong>💬 Ask me about:</strong> C++, DSA</li>
+      <li><strong>📫 Contact:</strong> <a href="mailto:srijansah11@outlook.com">Email</a></li>
+      <li><strong>📄 Experience:</strong> <a href="https://www.linkedin.com/in/srijan-kumar/" target="_blank">LinkedIn Profile</a></li>
+      <li><strong>⚡ Fun fact:</strong> Anime Lover</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>C++</li>
+      <li>Cybersecurity</li>
+      <li>Python</li>
+      <li>Artificial Intelligence</li>
+      <li>Flask & Web Development</li>
+      <li>Blockchain</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <img src="images/calculator.png" alt="Calculator Project" />
+      <h3>Web-Based Calculator</h3>
+      <p>A simple calculator built using HTML, CSS, and JavaScript. Supports basic arithmetic and features responsive design.</p>
+      <p><a href="https://github.com/Srijan-XI/Project-2025/tree/main/calculator" target="_blank">View on GitHub</a></p>
+    </div>
+    <div class="project">
+      <img src="images/url-shortener.png" alt="URL Shortener Project" />
+      <h3>URL Shortener App</h3>
+      <p>A Flask-based app that shortens long URLs for easy sharing. Stores analytics and provides a minimalistic interface.</p>
+      <p><a href="https://github.com/Srijan-XI/Project-2025/tree/main/Url-shorter" target="_blank">View on GitHub</a></p>
+    </div>
+  </section>
+
+  <section id="dev-widget">
+    <h2>Latest Dev.to Articles</h2>
+    <dev-widget 
+      data-username="srijan-xi"
+      data-theme="default"
+      data-sortby="reactions"
+      data-limit="30"
+      data-width="895px"
+      data-contentheight="300px">
+    </dev-widget>
+    <script src="https://unpkg.com/dev-widget@^1/dist/card.component.min.mjs" type="module"></script>
+  </section>
+
+  <section id="github-profile">
+    <h2>GitHub Profile</h2>
+    <git-widget data-username="Srijan-XI"></git-widget>
+    <script src="https://unpkg.com/github-devprofile@2/dist/card.component.min.mjs" type="module"></script>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p><a href="resume.pdf" download>Download My Resume (PDF)</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:srijansah11@outlook.com">srijansah11@outlook.com</a></p>
+    <p>Phone: +91-7973347454</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ❤️ Srijan Kumar. All rights reserved 🚀.</p>
+  </footer>
+
+</body>
+</html>
